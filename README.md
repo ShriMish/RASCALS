@@ -25,6 +25,6 @@ Next, we want this twin to check our understanding of how we avoid the debris. W
 - ChatGPT (for brainstorming and debugging assistance)
 
 ## Project Status
-Week 1: Infrastructure and repository setup
-Week 2: Setting up the Spacecraft Digital Twin and CA Framework
-Week 3:
+- Week 1: Infrastructure and repository setup
+- Week 2: Setting up the Spacecraft Digital Twin and CA Framework
+- Week 3:
